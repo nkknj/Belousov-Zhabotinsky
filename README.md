@@ -1,6 +1,6 @@
 # Belousov-Zhabotinsky
 
-Usage: python3 code.py
+Usage: python3 BZmodel.py
 
 - If you want to change parameters, edit them in the script "#setting".
 - (k1, k2, g: parameters, n: number of states, l: length of the edge nei: length of neighbor area)
